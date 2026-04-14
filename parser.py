@@ -2,13 +2,8 @@ import pdfplumber
 import spacy
 import re
 
-# Safely load the NLP model, natively downloading it via the spacy Python API if missing
-try:
-    nlp = spacy.load("en_core_web_sm")
-except Exception:
-    import spacy.cli
-    spacy.cli.download("en_core_web_sm")
-    nlp = spacy.load("en_core_web_sm")
+# Load the English NLP model natively
+nlp = spacy.load("en_core_web_sm")
 
 def extract_text_from_pdf(pdf_file_path_or_bytes):
     """
