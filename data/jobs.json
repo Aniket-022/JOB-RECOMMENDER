@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "skills": ["Python", "SQL", "Excel", "Data Analysis"],
+    "location": "Bangalore",
+    "type": "Internship",
+    "description": "Analyze datasets using Python and SQL. Support the data team with ad-hoc reporting and dashboard creation in Excel."
+  },
+  {
+    "title": "Software Engineering Intern",
+    "skills": ["Python", "Java", "Git", "Problem Solving"],
+    "location": "Bangalore",
+    "type": "Internship",
+    "description": "Work on scalable backend systems. Write clean code in Python and Java. Collaborate via Git."
+  },
+  {
+    "title": "Frontend Developer",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "UI"],
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Build interactive user interfaces using React.js. Optimize applications for maximum speed and scalability."
+  },
+  {
+    "title": "Backend Developer",
+    "skills": ["Python", "Django", "SQL", "Docker", "AWS"],
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "description": "Design and build scalable APIs with Django. Manage containerized deployments via Docker on AWS."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "Scikit-Learn"],
+    "location": "Bangalore",
+    "type": "Full-time",
+    "description": "Develop and deploy predictive models. Work with deep neural networks using TensorFlow."
+  },
+  {
+    "title": "Data Scientist",
+    "skills": ["Python", "Statistics", "Machine Learning", "Pandas", "SQL"],
+    "location": "Pune",
+    "type": "Full-time",
+    "description": "Perform A/B testing, statistical modeling, and extract insights from large datasets."
+  },
+  {
+    "title": "DevOps Engineer",
+    "skills": ["Linux", "Bash", "Docker", "Kubernetes", "AWS"],
+    "location": "Bangalore",
+    "type": "Full-time",
+    "description": "Automate deployment pipelines. Manage infrastructure as code. Ensure high availability of services."
+  },
+  {
+    "title": "UI/UX Designer",
+    "skills": ["Figma", "UI", "UX", "HTML", "CSS"],
+    "location": "Remote",
+    "type": "Contract",
+    "description": "Design intuitive user flows and create high-fidelity prototypes on Figma."
+  },
+  {
+    "title": "Software Developer Intern",
+    "skills": ["C++", "Algorithms", "Problem Solving"],
+    "location": "Delhi",
+    "type": "Internship",
+    "description": "Solve complex algorithmic challenges. Write performant C++ code for embedded systems."
+  },
+  {
+    "title": "Cloud Architect",
+    "skills": ["AWS", "Azure", "GCP", "Architecture", "Python"],
+    "location": "Mumbai",
+    "type": "Full-time",
+    "description": "Design highly available and scalable cloud-native architectures."
+  },
+  {
+    "title": "Product Analyst",
+    "skills": ["Data Analysis", "SQL", "Tableau", "Communication"],
+    "location": "Bangalore",
+    "type": "Full-time",
+    "description": "Work closely with product managers to define KPIs and build dashboards in Tableau."
+  },
+  {
+    "title": "Full Stack Developer",
+    "skills": ["Node", "React", "MongoDB", "Express", "JavaScript"],
+    "location": "Chennai",
+    "type": "Full-time",
+    "description": "Develop and maintain web applications using the MERN stack."
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "skills": ["Networking", "Python", "Linux", "Security"],
+    "location": "Pune",
+    "type": "Internship",
+    "description": "Assist in vulnerability assessments and penetration testing securely."
+  },
+  {
+    "title": "Database Administrator",
+    "skills": ["SQL", "PostgreSQL", "Database Design", "Performance Tuning"],
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "description": "Manage and optimize PostgreSQL databases for high performance and reliability."
+  },
+  {
+    "title": "Quantitative Researcher",
+    "skills": ["Mathematics", "Statistics", "Python", "C++"],
+    "location": "Mumbai",
+    "type": "Full-time",
+    "description": "Research and implement complex mathematical models for trading strategies."
+  },
+  {
+    "title": "Mobile App Developer",
+    "skills": ["Swift", "Kotlin", "React Native", "Java"],
+    "location": "Bangalore",
+    "type": "Full-time",
+    "description": "Develop dynamic cross-platform mobile applications."
+  },
+  {
+    "title": "QA Engineer Intern",
+    "skills": ["Testing", "Python", "Selenium", "Communication"],
+    "location": "Remote",
+    "type": "Internship",
+    "description": "Write automated test scripts using Selenium and document software bugs."
+  },
+  {
+    "title": "Data Engineering Intern",
+    "skills": ["Python", "Spark", "SQL", "Hadoop"],
+    "location": "Bangalore",
+    "type": "Internship",
+    "description": "Build ETL pipelines and work with big data frameworks like Apache Spark."
+  },
+  {
+    "title": "System Administrator",
+    "skills": ["Linux", "Windows", "Networking", "Bash"],
+    "location": "Delhi",
+    "type": "Full-time",
+    "description": "Maintain internal IT infrastructure and troubleshoot network issues."
+  },
+  {
+    "title": "NLP Engineer",
+    "skills": ["Python", "NLP", "Spacy", "Machine Learning", "PyTorch"],
+    "location": "Bangalore",
+    "type": "Full-time",
+    "description": "Develop natural language processing solutions. Train language models using PyTorch."
+  }
+]
