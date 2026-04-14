@@ -1,9 +1,10 @@
 import pdfplumber
 import spacy
+import en_core_web_sm
 import re
 
-# Load the English NLP model natively
-nlp = spacy.load("en_core_web_sm")
+# Load the English NLP model safely
+nlp = en_core_web_sm.load()
 
 def extract_text_from_pdf(pdf_file_path_or_bytes):
     """
