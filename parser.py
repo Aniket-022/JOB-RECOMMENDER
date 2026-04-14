@@ -1,16 +1,9 @@
 import pdfplumber
 import spacy
 import re
-import subprocess
-import sys
 
-# Attempt to load the English NLP model
-# If not installed, it tries to download it programmatically
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
+# Load the English NLP model
+nlp = spacy.load("en_core_web_sm")
 
 def extract_text_from_pdf(pdf_file_path_or_bytes):
     """
